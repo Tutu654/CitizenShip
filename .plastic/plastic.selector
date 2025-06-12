@@ -1,0 +1,4 @@
+repository "srot/srot@1375481018568@cloud"
+  path "/"
+    br "/main"
+    co "/main"

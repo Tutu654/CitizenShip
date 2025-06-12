@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 6c6ece2386f209b45964b8e7cb978694
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4873223590423806751
+    second: BudovyNaLod_0
+  - first:
+      213: -4760674647975200186
+    second: BudovyNaLod_1
+  - first:
+      213: 996888060936076176
+    second: BudovyNaLod_2
+  - first:
+      213: 7541512332429402158
+    second: BudovyNaLod_3
+  - first:
+      213: 7424490751391684431
+    second: BudovyNaLod_4
+  - first:
+      213: -7567339318027922557
+    second: BudovyNaLod_5
+  - first:
+      213: 6990952453452058678
+    second: BudovyNaLod_6
+  - first:
+      213: -7025285690067679749
+    second: BudovyNaLod_7
+  - first:
+      213: -7677331895046679165
+    second: BudovyNaLod_8
+  - first:
+      213: -5922296953570318785
+    second: BudovyNaLod_9
+  - first:
+      213: -4884537477659296304
+    second: BudovyNaLod_10
+  - first:
+      213: 2402753439654661516
+    second: BudovyNaLod_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BudovyNaLod_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 532
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13c34a390b21a340800000000000000
+      internalID: 4873223590423806751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 526
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64afa3c71afaeedb0800000000000000
+      internalID: -4760674647975200186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 529
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b3ce0e868a5dd00800000000000000
+      internalID: 996888060936076176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 526
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20aeab7285d8a860800000000000000
+      internalID: 7541512332429402158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 511
+        width: 125
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47dfd27007190760800000000000000
+      internalID: 7424490751391684431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 404
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3835916dbf86bf690800000000000000
+      internalID: -7567339318027922557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 398
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630d7ad773ad40160800000000000000
+      internalID: 6990952453452058678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 383
+        width: 125
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf581ede2eb218e90800000000000000
+      internalID: -7025285690067679749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 269
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38557f45153a47590800000000000000
+      internalID: -7677331895046679165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 266
+        width: 120
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3620146c46cfcda0800000000000000
+      internalID: -5922296953570318785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 140
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddf8002b03a63cb0800000000000000
+      internalID: -4884537477659296304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudovyNaLod_11
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 138
+        width: 120
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dc675e58b485120800000000000000
+      internalID: 2402753439654661516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BudovyNaLod_0: 4873223590423806751
+      BudovyNaLod_1: -4760674647975200186
+      BudovyNaLod_10: -4884537477659296304
+      BudovyNaLod_11: 2402753439654661516
+      BudovyNaLod_2: 996888060936076176
+      BudovyNaLod_3: 7541512332429402158
+      BudovyNaLod_4: 7424490751391684431
+      BudovyNaLod_5: -7567339318027922557
+      BudovyNaLod_6: 6990952453452058678
+      BudovyNaLod_7: -7025285690067679749
+      BudovyNaLod_8: -7677331895046679165
+      BudovyNaLod_9: -5922296953570318785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
