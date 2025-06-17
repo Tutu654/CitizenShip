@@ -24,6 +24,9 @@ public class BuildMenuScript : MonoBehaviour
     [SerializeField]
     BuildingsData BuildingsData;
 
+    [SerializeField]
+    MatsManager matsManager;
+
     private void OnSelect()
     {
         if (SelectedBuilding.tile == null) { Debug.Log("Building hasn't a tile asigned"); return; }
@@ -31,8 +34,11 @@ public class BuildMenuScript : MonoBehaviour
         if (!tileMap.HasTile(v)) { Debug.Log("Missing foundation"); return; }
         v.z += 1;
         if (tileMap.HasTile(v)) { Debug.Log("A building is already here"); return; }
-        tileMap.SetTile(v, SelectedBuilding.tile);
 
+        if (matsManager.placeBuilding(SelectedBuilding, v))
+        {
+            tileMap.SetTile(v, SelectedBuilding.tile);
+        }
     }
 
     private void Awake()

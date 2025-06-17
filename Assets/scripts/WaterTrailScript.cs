@@ -38,14 +38,9 @@ public class WaterTrailScript : MonoBehaviour
         lr.endWidth = smallestWidth;
         lr.startWidth = largestWidth;
     }
-
-    public void Update()
-    {
-        AddPoint();
-    }
-
     private void FixedUpdate()
     {
+        AddPoint();
         UpdateTrail();
     }
     void AddPoint()
@@ -65,7 +60,6 @@ public class WaterTrailScript : MonoBehaviour
         lr.positionCount = queue.Count;
         Vector3[] points = queue.ToArray();
         transform.InverseTransformPoints(points);
-        TransformPoints(points);
         lr.SetPositions(points);
 
         UpdateCurve(points);
@@ -88,14 +82,5 @@ public class WaterTrailScript : MonoBehaviour
         curve.AddKey(1f, smallestWidth);
         
         lr.widthCurve = curve;
-    }
-
-    //zlepsí jak to vypada
-    void TransformPoints(Vector3[] points)
-    {
-        for (int i = 0; i < points.Length; i++)
-        {
-            points[i].x /= 1.35f;
-        }
     }
 }
